@@ -1,4 +1,4 @@
-# 🌐 Cybernetics AI Analysis Dashboard
+# 🌐 Cybernetics AI Black Friday Analysis
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-15.0-black)
@@ -20,9 +20,8 @@
 <br/>
 
 <div align="center">
-  <img src="./screenshots/MOBILE.png" alt="Mobile View" width="30%" />
-  <img src="./screenshots/AI ASSITANT.png" alt="Chat Interface" width="30%" />
-  <img src="./screenshots/MAP VIEW.png" alt="Map Visualization" width="30%" />
+  <img src="./screenshots/AI ASSITANT.png" alt="Chat Interface" width="40%" />
+  <img src="./screenshots/MAP VIEW.png" alt="Map Visualization" width="40%" />
 </div>
 
 ---
@@ -191,3 +190,4 @@ Contributions are welcome! Please follow these steps:
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
